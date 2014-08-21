@@ -1,5 +1,0 @@
-总用量 0
-drwxrwxrwx 1 root root 240  8月 21 14:35 .
-drwxrwxrwx 1 root root 144  8月 21 14:35 ..
--rwxrwxrwx 1 root root   0  8月 21 14:35 1.txt
-drwxrwxrwx 1 root root 440  8月 21 14:35 .git
